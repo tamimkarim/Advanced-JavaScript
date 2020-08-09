@@ -12,5 +12,5 @@ function sum(first , second) {
     return result;
 }
 const output = sum(3, 7);
-console.log(output);
-console.log(bonus);
+// console.log(output);
+// console.log(bonus);
